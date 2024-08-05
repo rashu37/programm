@@ -17,4 +17,4 @@ System.out.println("the total number of even:" + even);
 System.out.println("the total number of odd:" + odd);
    
    }
-}
+} 

@@ -8,5 +8,7 @@ public class CountEvenodd{
 	 System.out.println("The number is odd:" + index);
 	 }
 	 }
+	 //System.out.println("The number is even:" + index);
+	 //System.out.println("The number is odd:" + index);
 	 }
 }
